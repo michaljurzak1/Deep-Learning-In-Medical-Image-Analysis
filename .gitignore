@@ -1,0 +1,11 @@
+# not to track
+presentations
+finished_notebooks.txt
+
+# datasets
+Brain_MRI*
+Instruments_Endoscopy*
+HippocampusMR*
+
+# unfinished notebooks
+lab9
