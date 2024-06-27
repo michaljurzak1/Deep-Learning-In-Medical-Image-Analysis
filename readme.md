@@ -41,14 +41,14 @@ Some laboratories (**lab3**, **lab6**) contain images from endoscopy which some 
 ## Laboratories:
 List of documentations about each laboratory:
 
-- [**1. Basic Operations, Gradient, Binary Images, Morhpology**](lab1\readme.md)
-- [**2. PyTorch, Convolution and Correlation, Filtering, Simple Neural Networks**](lab2\readme.md)
-- [**3. Datasets, Dataloaders**](lab3\readme.md)
-- [**4. Neural Netoworks Training - Supervised**](lab4\readme.md)
-- [**5. Classification, Classification Networks, Transfer Learning**](lab5\readme.md)
-- [**6. Image Segmentation, Encoder-Decoder, UNet**](lab6\readme.md)
-- [**7. Medical Image Registration (Not properly finished)**](lab7\readme.md)
-- [**8. Medical Image Generation (Not properly finished)**](lab8\readme.md)
+- [**1. Basic Operations, Gradient, Binary Images, Morhpology**](lab1/readme.md)
+- [**2. PyTorch, Convolution and Correlation, Filtering, Simple Neural Networks**](lab2/readme.md)
+- [**3. Datasets, Dataloaders**](lab3/readme.md)
+- [**4. Neural Netoworks Training - Supervised**](lab4/readme.md)
+- [**5. Classification, Classification Networks, Transfer Learning**](lab5/readme.md)
+- [**6. Image Segmentation, Encoder-Decoder, UNet**](lab6/readme.md)
+- [**7. Medical Image Registration (Not properly finished)**](lab7/readme.md)
+- [**8. Medical Image Generation (Not properly finished)**](lab8/readme.md)
 
 ---
 *Lab 7 - Very hard and the most time consuming laboratories, cannot find a source of an error.*  
